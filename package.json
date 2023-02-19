@@ -1,0 +1,19 @@
+{
+  "name": "ffxivita-tailwind-config",
+  "version": "0.5.2",
+  "description": "TailwindCSS configuration used by FFXIVITA",
+  "main": "ffxivita-tailwind-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffxivita/tailwind-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ffxivita/tailwind-config/issues"
+  },
+  "homepage": "https://github.com/ffxivita/tailwind-config#readme",
+  "author": "FFXIVITA",
+  "license": "MIT"
+}

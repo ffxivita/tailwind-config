@@ -1,0 +1,5 @@
+.idea/
+.github/
+.gitignore/
+renovate.json
+.whitesource
